@@ -2,4 +2,4 @@ ls -l
 
 uname -a
 
-yum list  installed
+yum list installed
